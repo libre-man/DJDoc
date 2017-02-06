@@ -1,7 +1,20 @@
 Transitioners
 =======
 
+.. currentmodule:: dj_feet.transitioners
+
+.. rubric:: Classes
+.. autosummary::
+   Transitioner
+   InfJukeboxTransitioner
+
+Transitioner
+^^^^^^
+.. autoclass:: Transitioner
+               :members:
 
 
-.. automodule:: dj_feet.transitioners
-  :members:
+InfJukeboxTransitioner
+^^^^^^^^^^^^
+.. autoclass:: InfJukeboxTransitioner
+               :members:

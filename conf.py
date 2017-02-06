@@ -31,6 +31,7 @@
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
+    'sphinx.ext.autosummary',
     'sphinx.ext.autodoc',
     'sphinx.ext.intersphinx',
     'sphinx.ext.todo',
@@ -38,7 +39,7 @@ extensions = [
     'sphinx.ext.imgmath',
     'sphinx.ext.viewcode',
     'sphinx.ext.githubpages',
-    'numpydoc',
+    'sphinx_paramlinks',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -158,10 +159,14 @@ intersphinx_mapping = {
     'python': ('https://docs.python.org/3.4', None),
     'numpy': ('http://docs.scipy.org/doc/numpy/', None),
     'np': ('http://docs.scipy.org/doc/numpy/', None),
-    'scipy': ('http://docs.scipy.org/doc/numpy/', None)
+    'scipy': ('http://docs.scipy.org/doc/scipy/reference/', None),
 }
 
 html_sidebars = {
     '**':
     ['globaltoc.html', 'relations.html', 'sourcelink.html', 'searchbox.html'],
 }
+
+autoclass_content = 'both'
+
+autodoc_member_order='bysource'

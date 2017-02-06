@@ -1,6 +1,26 @@
 Pickers
 =========
 
+.. currentmodule:: dj_feet.pickers
 
-.. automodule:: dj_feet.pickers
-  :members:
+.. rubric:: Classes
+.. autosummary::
+   Picker
+   SimplePicker
+   NCAPicker
+
+Picker
+^^^^^^
+.. autoclass:: Picker
+               :members:
+
+SimplePicker
+^^^^^^^^^^^^
+.. autoclass:: SimplePicker
+               :members:
+
+NCAPicker
+^^^^^^^^^
+.. autoclass:: NCAPicker
+               :members:
+               :private-members:
