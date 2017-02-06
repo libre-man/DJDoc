@@ -3,7 +3,7 @@ Android App
 The app allows users to join your organized silent disco session. The app can be installed on any Android smartphone running ``Android 5.0 Lollipop`` (API 21) or higher and can be downloaded from `app.sdaas.nl <app.sdaas.nl>`_. The following section will explain how to use the app and briefly go over inner workings of it.
 
 Using the app
-^^^^^^^^^^^^^^^^^^^^^
+-------------
 .. image:: images/initial.jpg
    :height: 300px
    :align: center
