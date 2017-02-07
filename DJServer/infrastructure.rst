@@ -18,6 +18,7 @@ communicate through.
 
 Controller to Server protocol
 -----------------------------
+.. _sdaas-protocol:
 
 The controller to server protocol is visualized in the following image:
 

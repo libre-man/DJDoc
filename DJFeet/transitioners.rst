@@ -1,5 +1,5 @@
 Transitioners
-=======
+==============
 
 .. currentmodule:: dj_feet.transitioners
 
@@ -9,12 +9,12 @@ Transitioners
    InfJukeboxTransitioner
 
 Transitioner
-^^^^^^
+^^^^^^^^^^^^^^^^^^
 .. autoclass:: Transitioner
                :members:
 
 
 InfJukeboxTransitioner
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^
 .. autoclass:: InfJukeboxTransitioner
                :members:

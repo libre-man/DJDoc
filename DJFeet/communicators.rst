@@ -16,11 +16,11 @@ Communicator
 
 
 SimpleCommunicator
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^
 .. autoclass:: SimpleCommunicator
                :members:
 
 ProtocolCommunicator
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
 .. autoclass:: ProtocolCommunicator
                :members:

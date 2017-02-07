@@ -1,5 +1,5 @@
 Controllers
-====
+============
 
 .. currentmodule:: dj_feet.controllers
 

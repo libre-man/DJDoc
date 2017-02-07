@@ -7,19 +7,11 @@ Welcome to #Sdaas's documentation!
 ==================================
 
 .. toctree::
-  :maxdepth: 3
+  :maxdepth: 2
 
   DJFeet/index
   DJServer/index
   DJApp/index
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
 About sdaas
 ============
@@ -33,4 +25,11 @@ new features or edit current features. This documentation will go over the three
 main components of sdaas: the server, the controller and the app. Please note that this
 documentation is both meant for users that just want to understand the basic working
 of sdaas to set up a silent disco and for users that want to fully understand and
-perhaps add new features. 
+perhaps add new features.
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`

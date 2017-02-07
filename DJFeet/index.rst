@@ -3,6 +3,8 @@ Controller
 .. toctree::
   :maxdepth: 2
 
+  workings
+
   pickers
   controllers
   transitioners
@@ -11,3 +13,7 @@ Controller
   song
 
   core
+
+  config
+
+  timeline

@@ -87,7 +87,7 @@ this go to the DJServer directory and *cd* into the deploy directory. Then run
 
 To login, we do need to create an initial super user. To do this, go to the
 *sdaas* directory inside DJServer and run:
-::
-    sudo python3 manage.py createsuperuser --settings=sdaas.settings.production
 
+.. code-block:: shell
 
+   sudo python3 manage.py createsuperuser --settings=sdaas.settings.production
